@@ -1,0 +1,277 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Presentation\\LoanManagementSystem.RestApi\\LoanManagementSystem.RestApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj",
+        "projectName": "LoanManagement.Entities",
+        "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj",
+        "packagesPath": "C:\\Users\\khashayar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khashayar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj",
+        "projectName": "LoanManagement.Services",
+        "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj",
+        "packagesPath": "C:\\Users\\khashayar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khashayar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj": {
+                "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Infrastructure\\LoanManagementSystem.Persistence.Ef\\LoanManagementSystem.Persistence.Ef.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Infrastructure\\LoanManagementSystem.Persistence.Ef\\LoanManagementSystem.Persistence.Ef.csproj",
+        "projectName": "LoanManagementSystem.Persistence.Ef",
+        "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Infrastructure\\LoanManagementSystem.Persistence.Ef\\LoanManagementSystem.Persistence.Ef.csproj",
+        "packagesPath": "C:\\Users\\khashayar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Infrastructure\\LoanManagementSystem.Persistence.Ef\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khashayar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj": {
+                "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Entities\\LoanManagement.Entities.csproj"
+              },
+              "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj": {
+                "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Presentation\\LoanManagementSystem.RestApi\\LoanManagementSystem.RestApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Presentation\\LoanManagementSystem.RestApi\\LoanManagementSystem.RestApi.csproj",
+        "projectName": "LoanManagementSystem.RestApi",
+        "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Presentation\\LoanManagementSystem.RestApi\\LoanManagementSystem.RestApi.csproj",
+        "packagesPath": "C:\\Users\\khashayar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Presentation\\LoanManagementSystem.RestApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\khashayar\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj": {
+                "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Core\\LoanManagement.Services\\LoanManagement.Services.csproj"
+              },
+              "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Infrastructure\\LoanManagementSystem.Persistence.Ef\\LoanManagementSystem.Persistence.Ef.csproj": {
+                "projectPath": "C:\\Users\\khashayar\\Desktop\\LoanManagementSystem\\LoanManagementSystem\\Infrastructure\\LoanManagementSystem.Persistence.Ef\\LoanManagementSystem.Persistence.Ef.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

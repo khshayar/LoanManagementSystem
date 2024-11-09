@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LoanManagementSystem.RestApi.props" />
+</Project>

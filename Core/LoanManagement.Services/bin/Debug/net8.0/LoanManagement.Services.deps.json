@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LoanManagement.Services/1.0.0": {
+        "dependencies": {
+          "LoanManagement.Entities": "1.0.0"
+        },
+        "runtime": {
+          "LoanManagement.Services.dll": {}
+        }
+      },
+      "LoanManagement.Entities/1.0.0": {
+        "runtime": {
+          "LoanManagement.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LoanManagement.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LoanManagement.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

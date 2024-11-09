@@ -1,0 +1,11 @@
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\bin\Debug\net8.0\LoanManagement.Entities.deps.json
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\bin\Debug\net8.0\LoanManagement.Entities.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\bin\Debug\net8.0\LoanManagement.Entities.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\LoanManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\LoanManagement.Entities.AssemblyInfoInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\LoanManagement.Entities.AssemblyInfo.cs
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\LoanManagement.Entities.csproj.CoreCompileInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\LoanManagement.Entities.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\refint\LoanManagement.Entities.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\LoanManagement.Entities.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Entities\obj\Debug\net8.0\ref\LoanManagement.Entities.dll

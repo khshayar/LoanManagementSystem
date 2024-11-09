@@ -1,0 +1,17 @@
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagementSystem.Persistence.Ef.deps.json
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagementSystem.Persistence.Ef.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagementSystem.Persistence.Ef.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.AssemblyInfoInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.AssemblyInfo.cs
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.csproj.CoreCompileInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\refint\LoanManagementSystem.Persistence.Ef.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\ref\LoanManagementSystem.Persistence.Ef.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanManagementSystem.Persistence.Ef.csproj.AssemblyReference.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagement.Entities.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagement.Services.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagement.Entities.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\bin\Debug\net8.0\LoanManagement.Services.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagementSystem.Persistence.Ef\obj\Debug\net8.0\LoanMana.3834794E.Up2Date

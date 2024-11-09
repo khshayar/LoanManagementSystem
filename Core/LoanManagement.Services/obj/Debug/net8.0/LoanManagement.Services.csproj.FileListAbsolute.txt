@@ -1,0 +1,15 @@
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\bin\Debug\net8.0\LoanManagement.Services.deps.json
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\bin\Debug\net8.0\LoanManagement.Services.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\bin\Debug\net8.0\LoanManagement.Services.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.AssemblyInfoInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.AssemblyInfo.cs
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\refint\LoanManagement.Services.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\ref\LoanManagement.Services.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\bin\Debug\net8.0\LoanManagement.Entities.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\bin\Debug\net8.0\LoanManagement.Entities.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanManagement.Services.csproj.AssemblyReference.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Core\LoanManagement.Services\obj\Debug\net8.0\LoanMana.9E662364.Up2Date

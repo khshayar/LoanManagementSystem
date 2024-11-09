@@ -1,0 +1,11 @@
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\bin\Debug\net8.0\LoanManagement.Infrastructures.deps.json
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\bin\Debug\net8.0\LoanManagement.Infrastructures.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\bin\Debug\net8.0\LoanManagement.Infrastructures.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\LoanManagement.Infrastructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\LoanManagement.Infrastructures.AssemblyInfoInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\LoanManagement.Infrastructures.AssemblyInfo.cs
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\LoanManagement.Infrastructures.csproj.CoreCompileInputs.cache
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\LoanManagement.Infrastructures.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\refint\LoanManagement.Infrastructures.dll
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\LoanManagement.Infrastructures.pdb
+C:\Users\khashayar\Desktop\LoanManagementSystem\LoanManagementSystem\Infrastructure\LoanManagement.Infrastructures\obj\Debug\net8.0\ref\LoanManagement.Infrastructures.dll

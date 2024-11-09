@@ -1,0 +1,3 @@
+﻿namespace LoanManagement.Services.Installments.Exceptions;
+
+public class LoanRequestIsentExistByThisIdException:Exception;

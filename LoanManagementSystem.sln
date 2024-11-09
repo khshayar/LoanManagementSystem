@@ -1,0 +1,90 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{144C83E8-EAB1-49E5-AD14-485CA01BFDF7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{AB478EE7-81E4-4F21-B219-3DB08C97FF35}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{4C4787C1-4CE3-4151-B0D5-DF96F372EC5B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{00BC24AF-5A0A-476E-943D-E9FA80D6F6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Application", "Core\LoanManagementSystem.Application\LoanManagementSystem.Application.csproj", "{BF5CEF4F-6AAB-4E68-97DC-ED5BB9EBA4E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement.Entities", "Core\LoanManagement.Entities\LoanManagement.Entities.csproj", "{2CABAFCB-21D4-4736-B56B-DB175DD443AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement.Services", "Core\LoanManagement.Services\LoanManagement.Services.csproj", "{DB2008F3-8ACC-4675-926E-211C88925C5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement.Infrastructures", "Infrastructure\LoanManagement.Infrastructures\LoanManagement.Infrastructures.csproj", "{D35C95FE-AB1F-42AD-8ED4-A3A1A371F0B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagement.Migration", "Infrastructure\LoanManagement.Migration\LoanManagement.Migration.csproj", "{C0DCA684-86C3-4E1F-9469-8514F302C488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Persistence.Ef", "Infrastructure\LoanManagementSystem.Persistence.Ef\LoanManagementSystem.Persistence.Ef.csproj", "{FEDBCF3B-0C79-4793-BDBC-575B55632B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.RestApi", "Presentation\LoanManagementSystem.RestApi\LoanManagementSystem.RestApi.csproj", "{D6D8B3F2-3F42-4DBE-9A40-078DECF129FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Application.Integration.Tests", "Test\LoanManagementSystem.Application.Integration.Tests\LoanManagementSystem.Application.Integration.Tests.csproj", "{288C65B4-0ED0-426E-AB6D-EB8D37CE45DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.Service.Unit.Tests", "Test\LoanManagementSystem.Service.Unit.Tests\LoanManagementSystem.Service.Unit.Tests.csproj", "{36B8F2F6-ADD4-4309-90BB-AC5C13180F1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoanManagementSystem.TestTools", "Test\LoanManagementSystem.TestTools\LoanManagementSystem.TestTools.csproj", "{E4FDB47F-20C9-492B-97DE-6B54DE4A6B11}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF5CEF4F-6AAB-4E68-97DC-ED5BB9EBA4E0} = {144C83E8-EAB1-49E5-AD14-485CA01BFDF7}
+		{2CABAFCB-21D4-4736-B56B-DB175DD443AC} = {144C83E8-EAB1-49E5-AD14-485CA01BFDF7}
+		{DB2008F3-8ACC-4675-926E-211C88925C5B} = {144C83E8-EAB1-49E5-AD14-485CA01BFDF7}
+		{D35C95FE-AB1F-42AD-8ED4-A3A1A371F0B4} = {AB478EE7-81E4-4F21-B219-3DB08C97FF35}
+		{C0DCA684-86C3-4E1F-9469-8514F302C488} = {AB478EE7-81E4-4F21-B219-3DB08C97FF35}
+		{FEDBCF3B-0C79-4793-BDBC-575B55632B7D} = {AB478EE7-81E4-4F21-B219-3DB08C97FF35}
+		{D6D8B3F2-3F42-4DBE-9A40-078DECF129FC} = {4C4787C1-4CE3-4151-B0D5-DF96F372EC5B}
+		{288C65B4-0ED0-426E-AB6D-EB8D37CE45DA} = {00BC24AF-5A0A-476E-943D-E9FA80D6F6A6}
+		{36B8F2F6-ADD4-4309-90BB-AC5C13180F1E} = {00BC24AF-5A0A-476E-943D-E9FA80D6F6A6}
+		{E4FDB47F-20C9-492B-97DE-6B54DE4A6B11} = {00BC24AF-5A0A-476E-943D-E9FA80D6F6A6}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF5CEF4F-6AAB-4E68-97DC-ED5BB9EBA4E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF5CEF4F-6AAB-4E68-97DC-ED5BB9EBA4E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF5CEF4F-6AAB-4E68-97DC-ED5BB9EBA4E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF5CEF4F-6AAB-4E68-97DC-ED5BB9EBA4E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CABAFCB-21D4-4736-B56B-DB175DD443AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CABAFCB-21D4-4736-B56B-DB175DD443AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CABAFCB-21D4-4736-B56B-DB175DD443AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CABAFCB-21D4-4736-B56B-DB175DD443AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB2008F3-8ACC-4675-926E-211C88925C5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB2008F3-8ACC-4675-926E-211C88925C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB2008F3-8ACC-4675-926E-211C88925C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB2008F3-8ACC-4675-926E-211C88925C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D35C95FE-AB1F-42AD-8ED4-A3A1A371F0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D35C95FE-AB1F-42AD-8ED4-A3A1A371F0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D35C95FE-AB1F-42AD-8ED4-A3A1A371F0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D35C95FE-AB1F-42AD-8ED4-A3A1A371F0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0DCA684-86C3-4E1F-9469-8514F302C488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0DCA684-86C3-4E1F-9469-8514F302C488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0DCA684-86C3-4E1F-9469-8514F302C488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0DCA684-86C3-4E1F-9469-8514F302C488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEDBCF3B-0C79-4793-BDBC-575B55632B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEDBCF3B-0C79-4793-BDBC-575B55632B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEDBCF3B-0C79-4793-BDBC-575B55632B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEDBCF3B-0C79-4793-BDBC-575B55632B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D8B3F2-3F42-4DBE-9A40-078DECF129FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D8B3F2-3F42-4DBE-9A40-078DECF129FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D8B3F2-3F42-4DBE-9A40-078DECF129FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D8B3F2-3F42-4DBE-9A40-078DECF129FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{288C65B4-0ED0-426E-AB6D-EB8D37CE45DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{288C65B4-0ED0-426E-AB6D-EB8D37CE45DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{288C65B4-0ED0-426E-AB6D-EB8D37CE45DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{288C65B4-0ED0-426E-AB6D-EB8D37CE45DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36B8F2F6-ADD4-4309-90BB-AC5C13180F1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36B8F2F6-ADD4-4309-90BB-AC5C13180F1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36B8F2F6-ADD4-4309-90BB-AC5C13180F1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36B8F2F6-ADD4-4309-90BB-AC5C13180F1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4FDB47F-20C9-492B-97DE-6B54DE4A6B11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4FDB47F-20C9-492B-97DE-6B54DE4A6B11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4FDB47F-20C9-492B-97DE-6B54DE4A6B11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4FDB47F-20C9-492B-97DE-6B54DE4A6B11}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

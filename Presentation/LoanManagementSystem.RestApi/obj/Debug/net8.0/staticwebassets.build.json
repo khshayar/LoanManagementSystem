@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Q3+1G6jSZacZNCPOewu0cSg9t+L88keCZoPSYRWzFE4=",
+  "Source": "LoanManagementSystem.RestApi",
+  "BasePath": "_content/LoanManagementSystem.RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
